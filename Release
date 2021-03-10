@@ -1,0 +1,8 @@
+Origin: B3ND1X	
+Label: B3ND1x
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Personal Repo

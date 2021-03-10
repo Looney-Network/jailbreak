@@ -1,0 +1,62 @@
+Package: com.supermamon.newpackage
+Version: 2.0.0-1
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
+Size: 854
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: This is a sample new package. Firmware should be greater than 7.0
+Name: New Package
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+
+Package: com.supermamon.oldpackage
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
+Size: 860
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Description: This is a sample old package. Firmware should be lower than 7.0
+Name: Old Package
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+
+Package: com.hackyouriphone.appcake6
+Version: 6.0.8
+Section: Tweaks
+Maintainer: B3ND1X <b3nd1x.m4r3t@gmail.com>
+Depends: mobilesubstrate, appsync
+Architecture: iphoneos-arm
+Filename: debs/com.hackyouriphone.appcake6.deb
+Size: 18800
+MD5sum: 86e9604281dd8b8df31c1bed6bfada62
+Description: The new AppCake 6! For iOS 11 & 12 Jailbreak.
+Name: AppCake
+Author: otsjf <repo@hackyouriphone.org>
+
+Author: saurik, Cannathea <csupport@cannathea.com>
+Maintainer: B3ND1X <b3nd1x.m4r3t@gmail.com>
+Name: Apple File Conduit "2" (arm64/KPPLess)
+Package: com.cannathea.afc2d-arm64
+debs/com.cannathea.afc2d-arm64.deb
+Depends: cy+cpu.arm64, mobilesubstrate, ldid
+Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Provides: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Section: System
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: Allow full file-system access over USB for arm64 devices, especially for those using a KPPLess jailbreak.
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afc2kpplessDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afc2kpplessDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: cannathea
+Tag: purpose::daemon, compatible::ios10, compatible::ios11, compatible::ios12
+Installed-Size: 338
+MD5sum: 537f1825593c69a1228985cf9e6161c2
+Filename: debs/com.cannathea.afc2d-arm64.deb
