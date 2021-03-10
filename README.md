@@ -1,2 +1,2 @@
-Repo by Liam Bendix for cydia, https://b3nd1x.github.io/R3P0
-Beta repo: https://b3nd1x.guthub.io/repo
+This is a repo for Cydia/Sileo/Zebra
+This repo is for an alternative and easier way of installing the Looney Network App on jailbroken devices!
