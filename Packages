@@ -33,8 +33,8 @@ Maintainer: Looney Network
 Depends: mobilesubstrate, appsync
 Architecture: iphoneos-arm
 Filename: debs/com.looney.network.deb
-Size: 15,617,958
-MD5sum: 86e9604281dd8b8df31c1bed6bfada62
+Size: 15617958
+MD5sum: e5cee359cdb9ab8b9703e35ddbcf6f80
 Description: Looney Network app. Requires AppSync, iOS 12+
 Name: Looney Network
 Author: Looney Network
