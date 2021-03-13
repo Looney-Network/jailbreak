@@ -27,14 +27,14 @@ Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
 Package: com.looney.network
-Version: 1.0.1
+Version: 1.0.
 Section: Utilities
 Maintainer: Looney Network
 Depends: mobilesubstrate, appsync
 Architecture: iphoneos-arm
 Filename: debs/com.looney.network.deb
 Size: 15617958
-MD5sum: 2e9ed3d59ec18a5f67eebe2d1befa7e7
+MD5sum: e5cee359cdb9ab8b9703e35ddbcf6f80
 Description: Looney Network app. Requires AppSync, iOS 12+
 Name: Looney Network
 Author: Looney Network
