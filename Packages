@@ -27,7 +27,7 @@ Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
 Package: com.looney.network
-Version: 1.0
+Version: 1.0.1
 Section: Utilities
 Maintainer: Looney Network
 Depends: mobilesubstrate, appsync
