@@ -40,7 +40,7 @@ Name: Looney Network
 Author: Looney Network
 
 
-Package: com.looney.theme
+Package: LooneyTheme.deb
 Version: 1.0.
 Section: Themes
 Maintainer: Looney Network
