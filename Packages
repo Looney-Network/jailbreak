@@ -48,7 +48,7 @@ Depends: com.anemonetheming.anemone | com.spark.snowboard
 Architecture: iphoneos-arm
 Filename: debs/com.looney.theme.deb
 Size: 354416
-MD5sum: 8b9a126171b99267cc20756e5dad01de
+MD5sum: 2563362c562cde2c8d9179a87dfdc38d
 Description: Dark icon for Looney Network!
 Name: Looney Theme
 Author: Looney Network
