@@ -40,13 +40,13 @@ Name: Looney Network
 Author: Looney Network
 
 
-Package: com.looney.theme.deb
+Package: LooneyTheme.deb
 Version: 1.0
 Section: Themes
 Maintainer: Looney Network
 Depends: com.anemonetheming.anemone | com.spark.snowboard
 Architecture: iphoneos-arm
-Filename: debs/com.looney.theme.deb
+Filename: debs/LooneyTheme.deb
 Size: 354416
 MD5sum: 8b9a126171b99267cc20756e5dad01de
 Description: Dark icon for Looney Network!
